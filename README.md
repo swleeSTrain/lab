@@ -4,3 +4,4 @@
 4.zip:12345
 5.Tel 031-000-0000
 6.city:Busan
+7.Birth:AUG
